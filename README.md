@@ -14,21 +14,21 @@ Sistema web desarrollado para la administración integral de consultorios odonto
 ### 📅 Módulo de Agenda
 | Vista Principal | Nuevo Turno |
 | :---: | :---: |
-| ![Agenda 1](paginaprincipalturnos.PNG) | ![Agenda 2](agendarturno.PNG) |
+| ![Agenda 1](screens/paginaprincipalturnos.PNG) | ![Agenda 2](screens/agendarturno.PNG) |
 
 ### Módulo de Pacientes
 | Pacientes | Editar Paciente |
 | :---: | :---: |
-| ![pacientes](pacientes.PNG) | ![pacientes 2](ediciondepaciente.PNG) |
+| ![pacientes](screens/pacientes.PNG) | ![pacientes 2](screens/ediciondepaciente.PNG) |
 
 ### Módulo de Clínica (Anamnesis y Fichas)
 | Vista 1 | Vista 2 |
 | :---: | :---: |
-| ![Clinca 1](seccionclinica.PNG) | ![Clinica 2](seccionclinica2.PNG) |
+| ![Clinca 1](screens/seccionclinica.PNG) | ![Clinica 2](screens/seccionclinica2.PNG) |
 
 | Vista 3 | Vista 4 |
 | :---: | :---: |
-| ![Clinica 3](3.PNG) | ![Clinica 4](4.PNG) |
+| ![Clinica 3](screens/3.PNG) | ![Clinica 4](screens/4.PNG) |
 
 ---
 
