@@ -14,7 +14,7 @@ Sistema web desarrollado para la administración integral de consultorios odonto
 ### 📅 Módulo de Agenda
 | Vista Principal | Nuevo Turno |
 | :---: | :---: |
-| ![Agenda 1](pagina-principal-turnos.png) | ![Agenda 2](agendar-turno.png) |
+| ![Agenda 1](pagina principal turnos.png) | ![Agenda 2](agendar-turno.png) |
 
 ### Módulo de Pacientes
 | Pacientes | Editar Paciente |
