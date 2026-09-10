@@ -28,7 +28,7 @@ Sistema web desarrollado para la administración integral de consultorios odonto
 
 | Vista 3 | Vista 4 |
 | :---: | :---: |
-| ![Clinica 3](3.png) | ![Clinica 4](4.png) |
+| ![Clinica 3](3.png) | ![Clinica 4](4.PNG) |
 
 ---
 
